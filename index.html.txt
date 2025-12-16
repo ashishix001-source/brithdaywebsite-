@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday, Anchal! 💖</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #ffafbd, #ffc3a0);
+            color: #4a4a4a;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+
+        .container {
+            background-color: #ffffff;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        h1 {
+            color: #e54c7d;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            border-bottom: 3px solid #f990a8;
+            padding-bottom: 10px;
+        }
+
+        .date {
+            font-size: 1.2em;
+            color: #8c8c8c;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        .highlight {
+            color: #e54c7d;
+            font-weight: bold;
+        }
+
+        .signature {
+            margin-top: 30px;
+            font-style: italic;
+            color: #a879a8;
+            font-size: 1.3em;
+        }
+
+        .emoji-large {
+            font-size: 3em;
+            display: block;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <span class="emoji-large">🎉💖</span>
+        <h1>Happy Birthday My Love, Anchal 😚🎂</h1>
+        <p class="date">Celebrating **February 7th**, the day you were born!</p>
+        
+        <p>Happy Birthday to the most beautiful girl in my life, <span class="highlight">Anchal</span> 💕</p>
+        
+        <p>On 7th February, the world became brighter because you were born ✨🌸</p>
+        
+        <p>Your smile melts my heart 😍, your cuteness drives me crazy 😚, and your presence makes my life feel complete 💫</p>
+        
+        <p>You are not just pretty on the outside, but amazing from the inside too <span class="highlight">💖🔥</span></p>
+        
+        <p>I feel so lucky to have you by my side 🥹💞</p>
+        
+        <p>May your life be filled with happiness, love, success, and all the dreams your heart desires 🎁🌹</p>
+        
+        <p>Always stay cute, confident, and beautiful — just the way you are 😘💋</p>
+        
+        <p class="signature">I love you so much 💕💕</p>
+        
+        <p>Once again, Happy Birthday my beautiful babyy 🎂🎉😚</p>
+    </div>
+</body>
+</html>
